@@ -1,1 +1,1 @@
-# Codes on Concept of Pthon Programming Language
+# Codes on Concept of Python Programming Language
