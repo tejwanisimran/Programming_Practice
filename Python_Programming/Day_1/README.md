@@ -1,3 +1,3 @@
 # Day 1 :
 
-Concepts of selection & iteration in Python
+Codes on Concepts of selection & iteration in Python
