@@ -1,6 +1,6 @@
 # Day 4 : 
 
-# Logical codes on problems on numbers & problems on digits.
+# Logical codes on problems on numbers & problems on digits in C
 
 # Done Questions like : 
 
