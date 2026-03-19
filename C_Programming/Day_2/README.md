@@ -1,3 +1,3 @@
 # Day 2 :
 
-Conceptual codes to understand iteration in C
+# Conceptual codes to understand iteration in C
