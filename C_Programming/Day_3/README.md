@@ -1,6 +1,6 @@
 # Day 3 : 
 
-Logical codes on concept of iteration in C
+# Logical codes on concept of iteration in C
 
 # Done Questions like : 
       1. Even or Odd  
