@@ -1,6 +1,6 @@
 ## Day 7 : 
 
-## Logical codes on Problems on N Numbers.
+## Logical codes on Problems on N Numbers in C.
 
 ---
 
